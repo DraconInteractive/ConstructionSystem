@@ -1,0 +1,14 @@
+{
+  "name": "com.dracon.construction",
+  "displayName": "Dracon Construction",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "description": "Geometry snapping tool for use in level design.",
+  "keywords": [
+    "snap",
+    "tool",
+    "level",
+    "unity"
+  ],
+  "category": "Unity"
+}
