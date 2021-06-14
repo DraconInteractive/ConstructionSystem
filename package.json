@@ -1,14 +1,26 @@
 {
   "name": "com.dracon.construction",
   "displayName": "Dracon Construction",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "unity": "2019.1",
-  "description": "Geometry snapping tool for use in level design.",
+  "description": "Level development tool for snapping modular geometry",
   "keywords": [
-    "snap",
-    "tool",
     "level",
+    "tool",
+    "graph",
     "unity"
   ],
+  "samples": [
+    {
+      "displayName": "Placeholder",
+      "description": "Placeholder sample for when I actually have extensible content to add",
+      "path": "Samples~/DialogueStuff"
+    }
+  ],
+  "author": {
+    "name": "Dracon Interactive",
+    "email": "draconinteractive@gmail.com",
+    "url": "http://www.draconinteractive.com.au"
+  },
   "category": "Unity"
 }
